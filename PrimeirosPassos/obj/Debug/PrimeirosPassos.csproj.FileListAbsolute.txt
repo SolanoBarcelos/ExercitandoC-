@@ -1,0 +1,8 @@
+C:\Users\solan\source\repos\PrimeirosPassos\PrimeirosPassos\bin\Debug\PrimeirosPassos.exe.config
+C:\Users\solan\source\repos\PrimeirosPassos\PrimeirosPassos\bin\Debug\PrimeirosPassos.exe
+C:\Users\solan\source\repos\PrimeirosPassos\PrimeirosPassos\bin\Debug\PrimeirosPassos.pdb
+C:\Users\solan\source\repos\PrimeirosPassos\PrimeirosPassos\obj\Debug\PrimeirosPassos.csproj.AssemblyReference.cache
+C:\Users\solan\source\repos\PrimeirosPassos\PrimeirosPassos\obj\Debug\PrimeirosPassos.csproj.SuggestedBindingRedirects.cache
+C:\Users\solan\source\repos\PrimeirosPassos\PrimeirosPassos\obj\Debug\PrimeirosPassos.csproj.CoreCompileInputs.cache
+C:\Users\solan\source\repos\PrimeirosPassos\PrimeirosPassos\obj\Debug\PrimeirosPassos.exe
+C:\Users\solan\source\repos\PrimeirosPassos\PrimeirosPassos\obj\Debug\PrimeirosPassos.pdb
