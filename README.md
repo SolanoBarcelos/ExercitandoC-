@@ -1,6 +1,6 @@
-# POO em C#
+# Exercícios com C#
 
-## Repositório para exercitar C#
+## Repositório para exercitar e evoluir conhecimentos em C#.
 
 #### Exercícios de Estruturas Condicionais, Switch Case, Arrays, Enum, Estruturas de Repetição, Funções.
 
